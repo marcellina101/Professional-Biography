@@ -6,6 +6,8 @@
 - owusuama@mail.uc.edu
 - baldwiak@mail.uc.edu
 # Project Topic Area: 
-- Requirements Engineering Research
+- Project Focus: We would like to create a new library for Arduino that is focuses on gps location based around sound (essentially a library that allows arduino robots to easily track sound)
+# Project Advisor 
+- Ali Minai
 
 
