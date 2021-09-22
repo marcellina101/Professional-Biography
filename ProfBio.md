@@ -27,4 +27,5 @@
   * Artificial Intelligence
   * Data Analysis
   * System Administration
+  * Business Intelligence Analysis
   
