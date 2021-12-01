@@ -22,7 +22,7 @@
 * Effort Matrix
   * https://github.com/marcellina101/Professional-Biography/blob/main/Project%20Tasks%20and%20Timeline/Assignment%207_%20Project%20Constraints.pdf
 
-# PPT Slideshow (includes ABET Concerns)
+# PPT Slideshow
   * https://github.com/marcellina101/Professional-Biography/tree/main/PPT%20Slideshow
 
 # Self-Assessment Essays
