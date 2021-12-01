@@ -1,6 +1,6 @@
 # Professional-Biography
 
-# Team names (include Advisor) and Project Abstract (limit of 400 ascii chars)
+# Team names, Advisor, and Project Abstract 
 * https://github.com/marcellina101/Professional-Biography/tree/main/Team%20Information
 
 # Project Description
@@ -13,7 +13,7 @@
     * https://github.com/marcellina101/Professional-Biography/blob/main/User%20Stories%20and%20Design%20Diagram/Design%20Diagram%20(1).pdf
   * Description of the Diagrams: including conventions and a brief description of the purpose of each component.
     * https://github.com/marcellina101/Professional-Biography/blob/main/User%20Stories%20and%20Design%20Diagram/Design%20Diagram%20(1).pdf
-    * 
+ 
 # Project Tasks and Timeline
 * Task List
   * https://github.com/marcellina101/Professional-Biography/blob/main/Project%20Tasks%20and%20Timeline/Task%20List%20(1).pdf
@@ -36,5 +36,3 @@
 
 # Appendix
   * https://github.com/marcellina101/Professional-Biography/tree/main/Appendix
-
- 
