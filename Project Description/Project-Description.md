@@ -10,14 +10,14 @@
 - REVISION:
    * Distance between what we’re hearing and the new sound
       * If difference is below or above a certain threshold you can then say its a gunshot or not
-    * Metric of distance or similarity
-    * Time domain and frequency domain
-    * Look up table
+      * Metric of distance or similarity
+      * Time domain and frequency domain
+      * Look up table
    * Starts by measuring decibels then compares it to what’s stored
-    * Range of time -  if within range then match to sound, if not …
-    * When decibel raises above a certain level then it will start in order to match to new
+      * Range of time -  if within range then match to sound, if not …
+      * When decibel raises above a certain level then it will start in order to match to new
    * Testing
-    * Sound vary and determine how much variation system can tolerate 
+      * Sound vary and determine how much variation system can tolerate 
 
 # Project Advisor 
 - Ali Minai
