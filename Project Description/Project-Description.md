@@ -9,7 +9,7 @@
 - Project Focus: We would like to create a new library for Arduino that is focuses on gps location based around sound (essentially a library that allows arduino robots to easily track sound)
 - REVISION:
    * Distance between what we’re hearing and the new sound
-    * If difference is below or above a certain threshold you can then say its a gunshot or not
+   *  If difference is below or above a certain threshold you can then say its a gunshot or not
     * Metric of distance or similarity
     * Time domain and frequency domain
     * Look up table
