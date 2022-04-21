@@ -17,10 +17,11 @@
     * Designed, planned, and implemented data-oriented applications to drive operational efficiency, and realize cost savings.
     * Transformed data from multiple storage/backup data collection on hundreds of SAN and NAS devices across GE’s network.
     * Automated storage/backup data tasks by creating the automation framework.
+
 ## Skills/Expertise
   * **Certifications**: ITIL Foundation v4, and Google Foundations of Project Management.
-  * **Language**: Python, SQL, C++, Powershell,  MATLab, HTML, and CSS.
-  * **Software/Applications**: Microsoft Office365, AWS, and Microsoft AD.
+  * **Language**: Python, SQL, C++, Powershell,  CommandLine, HTML, and CSS.
+  * **Software/Applications**: AWS, ServiceNow, DataBricks, LogRythm, Microsoft: Azure, AD, Office365, and Defender.
 
 ## Areas of Interest/Types of Project Sought
   * Cloud
